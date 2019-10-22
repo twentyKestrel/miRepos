@@ -1,0 +1,4 @@
+barra navegacion 
+jumbotron
+carrucel (slider)
+sistema de grid para los 3 platillos
